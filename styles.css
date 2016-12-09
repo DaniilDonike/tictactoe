@@ -1,0 +1,13 @@
+#board {
+  margin-top: 10px;
+}
+
+.box {
+  border: 1px solid black;
+  height: 150px;
+}
+
+.winer {
+	font-size: 20px;
+	font-family: arial;
+}
